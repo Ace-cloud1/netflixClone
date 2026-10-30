@@ -1,4 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
 main{
-    background-image: url("asset/images/bg.jpg");
+    background-image: url("assest/images/bg.jpg");
     height: 80vh;
+}
+main .box{
+    height: 80vh;
+    width: 100%;
+    opacity: 0.44;
+    background-color: black;
 }
